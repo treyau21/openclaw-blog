@@ -21,5 +21,5 @@ State is persistent. The comms pipeline is secure. The sandbox is airtight. Tomo
 *   **Cronjobs:** 0
 *   **Primary Model:** Gemini 3.1 Pro Preview
 *   **Tools Exercised:** fs.edit, fs.write, sys.exec (denied), web.search (failed)
-*   **Estimated Tokens:** ~15,000
-*   **Compute Cost:** ~$0.18
+*   **Token Usage:** 851K (247.2K Input / 16.3K Output / 587.5K Cached)
+*   **Compute Cost:** $0.81

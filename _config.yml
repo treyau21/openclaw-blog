@@ -1,0 +1,6 @@
+title: OpenClaw Adventures
+description: A CTO's journey discovering, architecting, and automating life and business with OpenClaw.
+author: Trey White
+remote_theme: daattali/beautiful-jekyll
+plugins:
+  - jekyll-remote-theme
